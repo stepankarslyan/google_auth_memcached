@@ -1,0 +1,9 @@
+{
+  "name": "google_auth_memcached",
+  "version": "0.0.1",
+  "dependencies": {
+    "zmq": "onicollet/zmq",
+    "memcached":"*",
+    "optimist":"*"
+  }
+}
